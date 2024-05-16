@@ -1,4 +1,12 @@
+# PetroLMS
+
+This is a fully functional LMS for the oil and gas industry, where all the experts can upload their courses and certifications for the petroleum workforce.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Language: Typescript
 
 ## Getting Started
 
