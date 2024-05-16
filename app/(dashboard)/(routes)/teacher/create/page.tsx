@@ -52,7 +52,9 @@ const CreatePage = () => {
     }
 
     return (
-        <div className="max-w-5xl mx-auto flex md:items-center md:justify-center h-full p-6">
+        // Original position:
+        // <div className="max-w-5xl mx-auto flex md:items-center md:justify-center h-full p-6">
+        <div className="max-w-5xl mx-auto h-full p-6 mt-10">
             <div>
                 <h1 className="text-2xl">
                     Name your course
